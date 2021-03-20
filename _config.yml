@@ -1,0 +1,16 @@
+# Site settings
+title: Amir Kazemi
+description: Jekyll Theme Minimal Resume
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: Amir Kazemi
+user_description: Experienced consultant in Polyolefins and PVC industries
+user_title: MSc Polymer Engineering
+email: k.plme06@gmail.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
